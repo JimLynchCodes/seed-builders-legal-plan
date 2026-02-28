@@ -1,12 +1,8 @@
 # Seed Builders Legal Plan
 
-## Step 1 - Register NY State "Non For Profit
-
-
-
 Legal Business Name
 
-📍 3. Register with New York State
+📍 Register with New York State
 
 A. Choose a Name
 
@@ -14,7 +10,7 @@ Must be unique in NY.
 
 Must include a nonprofit indicator (“Inc.” or similar).
 
-We'll use: _Seed Builders, Inc._
+Plan to use: _Seed Builders, Inc._
 
 
 B. Draft and File the Articles of Incorporation
@@ -29,7 +25,7 @@ You’ll pay a state filing fee.
 Our purpose:
 
 ```
-
+To promote public health and nutritional education by improving access to seed-based foods for underserved communities.
 ```
 
 C. Appoint Initial Directors
